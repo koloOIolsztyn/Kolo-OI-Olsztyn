@@ -20,3 +20,6 @@ Lista już omówionych zadań:
 -projekty
 -porównywanie leksykograficzne
 -graf inwersji
+-matryca
+-bazarek
+-kapitan
