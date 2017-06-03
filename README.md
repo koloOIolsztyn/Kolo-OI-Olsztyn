@@ -23,3 +23,5 @@ Lista już omówionych zadań:
 -matryca
 -bazarek
 -kapitan
+
+Omówienie zadania wirusy: http://oi.edu.pl/static/attachment/20110731/oi7.pdf
