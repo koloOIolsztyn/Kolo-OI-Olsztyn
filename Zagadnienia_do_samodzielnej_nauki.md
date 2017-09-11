@@ -4,7 +4,7 @@ Różne:
 operacje na macierzach, NP-trudność, układy równań, eliminacja Gaussa, automaty stanowe, języki regularne i bezkontekstowe
 
 Struktury:
-<b>kopiec</b>, kopiec dwumianowy, Fibonacciego, drzewo potęgowe, drzewa <b>BST</b>, AVL
+<ub>kopiec</ub>, kopiec dwumianowy, Fibonacciego, drzewo potęgowe, drzewa <b>BST</b>, AVL
 
 Sortowania:
 <b>liniowe</b>, <b>nlogn</b>, n^2, dowód na ograniczenie dolne złożoności
