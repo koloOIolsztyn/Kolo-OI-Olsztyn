@@ -1,4 +1,4 @@
-Oto lista najważniejszych zagadnień nierozwiniętych podczas kółka:
+Oto lista najważniejszych zagadnień nierozwiniętych podczas kółka. Najważniejsze z nich są wyszczególnione ***pogrubioną kursywą***:
 
 Różne:
 operacje na macierzach, NP-trudność, układy równań, eliminacja Gaussa, automaty stanowe, języki regularne i bezkontekstowe
