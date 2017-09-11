@@ -13,7 +13,7 @@ Matematyka dyskretna (różne):
 <b>kombinatoryka, znane tożsamości</b>, szeregi, zasada włączeń i wyłączeń, rozwiązywanie równań rekurencyjnych
 
 Teoria liczb:
-<b><u>NWD, NWW</u></b>, <b>szybkie potęgowanie, kombinacje liniowe, uogólniony Euklides, sito Eratostenesa, twierdzenia Fermata, twierdzenie Eulera</b>, równania modularne, chińskie twierdzenie o resztach, grupy i generatory grup
+<b>__NWD, NWW__</b>, <b>szybkie potęgowanie, kombinacje liniowe, uogólniony Euklides, sito Eratostenesa, twierdzenia Fermata, twierdzenie Eulera</b>, równania modularne, chińskie twierdzenie o resztach, grupy i generatory grup
 
 Grafy:
 <b>dwudzielność</b>, dwukolorowanie, <b>skojarzenia</b>, mosty, punkty artykulacji, dwuspójne składowe, kolorowanie <b>drzew</b>, grafów, <b><u>cykl, ścieżka Eulera</u></b>, Hammiltona, planarność, 5 kolorowanie, graf dualny, potęgowanie macierzy sąsiedztwa
