@@ -10,7 +10,7 @@ Sortowania:
 __**liniowe, nlogn**__, n^2, dowód na ograniczenie dolne złożoności
 
 Matematyka dyskretna (różne):
-__**kombinatoryka**__, **znane tożsamości**, szeregi, zasada włączeń i wyłączeń, rozwiązywanie równań rekurencyjnych
+***kombinatoryka***, **znane tożsamości**, szeregi, zasada włączeń i wyłączeń, rozwiązywanie równań rekurencyjnych
 
 Teoria liczb:
 __**NWD, NWW**__, **szybkie potęgowanie, kombinacje liniowe, uogólniony Euklides, sito Eratostenesa, twierdzenia Fermata, twierdzenie Eulera**, równania modularne, chińskie twierdzenie o resztach, grupy i generatory grup
