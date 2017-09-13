@@ -28,7 +28,7 @@ http://omj.edu.pl/
 
 Przydatne wykłady i artykuły:
 http://wazniak.mimuw.edu.pl
-http://smurf.mimuw.edu.pl/ (w większości to samo co powyżej)
+http://smurf.mimuw.edu.pl/ (w większości to samo co ważniak)
 http://informatyka.wroc.pl/
 
 
