@@ -41,6 +41,7 @@ https://github.com/koloOIolsztyn/Kolo-OI-Olsztyn/blob/master/olimpiada_informaty
 
 
 Inne:
+
 Omówienie zadania wirusy: http://oi.edu.pl/static/attachment/20110731/oi7.pdf
 
 Omówienie wykorzystania i szybkiego generowania struktur do algorytmów tekstowych:
